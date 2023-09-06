@@ -35,3 +35,4 @@ while horas > 24 :
 
 valorT = float(costo * horas)
 print("el precio a pagar por el estacionamiento en el día " , dia1 , "es de: " , str(valorT), "dolares")
+
